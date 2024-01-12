@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lisa!
 - 🎓 I'm currently a student at Cornell University majoring in computer science and minoring in game design
-- 💻 I’m generally interested in machine learning, full-stack development, and game development!
+- 💻 I’m generally interested in all things machine learning and software engineering!
 - 📫 How to reach me: lisaasriev@yahoo.com
 
 <!---
