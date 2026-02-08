@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there 🙋‍♀️
+
+💼 I'm Lisa, a full-stack software developer and May 2024 Cornell University graduate with a B.S in computer science and a minor in game design. I am passionate about creating user-centric, impactful software addressing real world problems.
+
+👩‍💻 Currenty, I am working as a software developer at [First Bit](https://firstbit.com/), where I contribute to a number of projects across the stack both individually and as part of a team. 
+
+⛸️ In my free time I enjoy working out (ice skating, running, lifting), drawing, and playing video games!  
 
 <!--
 **lisaasriev/lisaasriev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
